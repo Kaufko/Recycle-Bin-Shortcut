@@ -2,7 +2,7 @@
 
 ##Installation
 1. Open powershell
-2. Type in Invoke-WebRequest "https://github.com/Kaufko/Recycle-Bin-Shortcut/raw/master/shrtcttocopy.lnk" -OutFile $env:USERPROFILE"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Recycle Bin.lnk"
+2. Type in ```Invoke-WebRequest "https://github.com/Kaufko/Recycle-Bin-Shortcut/raw/master/shrtcttocopy.lnk" -OutFile $env:USERPROFILE"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Recycle Bin.lnk"```
 3. Done
 
 ##Usage
